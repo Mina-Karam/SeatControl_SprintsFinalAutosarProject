@@ -34,6 +34,8 @@
 #define PLATFORM_TYPES_AR_REALEASE_MINOR_VERSION 	(4U)
 #define PLATFORM_TYPES_AR_REALEASE_PATCH_VERSION 	(0U)
 
+//#include "Compiler_Cfg.h"
+
 /* The memory class is used for the declaration of local pointers */
 #define AUTOMATIC
 
